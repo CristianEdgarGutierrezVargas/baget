@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNH3M83lVVSY2V4r4HDZA5LjU6Lf2TQnLvVXuCE4LY37Hm7mCjjXWjPVkP7WctHBox3oNTlK2fIq9hf5WFYWng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crigu\\Desktop\\PruebaDependencia\\PruebaDependencia\\PruebaDependencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crigu\\.nuget\\packages\\libreriacris\\1.0.0\\libreriacris.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://localhost:5000/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

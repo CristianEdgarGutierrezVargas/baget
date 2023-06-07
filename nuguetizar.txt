@@ -1,0 +1,30 @@
+dotnet nuget push -s http://localhost:5000/v3/index.json package.1.0.0.nupkg
+
+
+dotnet nuget push -s http://localhost:5000/v3/index.json C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\bin\Debug\LibreriaCris.1.0.0.nupkg
+dotnet nuget push -s http://localhost:5000/v3/index.json C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\bin\Debug\LibreriaCris.1.0.1-300.nupkg
+
+
+dotnet pack -p:PackageVersion=2.1.0
+dotnet pack -p:PackageVersion=1.0.1-rc.1
+
+
+
+LibreriaCris.1.0.1-rc.1.nupkg
+
+dotnet nuget push -s http://localhost:5000/v3/index.json C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\bin\Debug\LibreriaCris.1.0.1-rc.1.nupkg
+
+
+
+
+https://github.com/loic-sharma/BaGet
+Daniel Galanti9:57
+dotnet nuget push -s http://localhost:5000/v3/index.json package.1.0.0.nupkg
+Daniel Galanti10:09
+http://localhost:5000/v3/index.json
+Daniel Galanti10:19
+https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-pack
+Daniel Galanti10:21
+dotnet pack -p:PackageVersion=1.0.1-rc.1
+Daniel Galanti10:23
+dotnet pack --force -p:PackageVersion=1.0.1-rc.1

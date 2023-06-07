@@ -1,0 +1,12 @@
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\bin\Debug\net7.0\LibreriaCris.deps.json
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\bin\Debug\net7.0\LibreriaCris.dll
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\bin\Debug\net7.0\LibreriaCris.pdb
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\LibreriaCris.csproj.AssemblyReference.cache
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\LibreriaCris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\LibreriaCris.AssemblyInfoInputs.cache
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\LibreriaCris.AssemblyInfo.cs
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\LibreriaCris.csproj.CoreCompileInputs.cache
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\LibreriaCris.dll
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\refint\LibreriaCris.dll
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\LibreriaCris.pdb
+C:\Users\crigu\Desktop\LibreriaCris\LibreriaCris\obj\Debug\net7.0\ref\LibreriaCris.dll

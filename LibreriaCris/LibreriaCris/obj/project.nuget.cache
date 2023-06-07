@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpeuesJTXdEMfT5tp/yq2PXkwEwbq6bAk8P/LgW1pDJ58v8nubzCVLiSpu8Z7PpGRUSRKC/6N1G3x/V1ZmwaCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crigu\\Desktop\\LibreriaCris\\LibreriaCris\\LibreriaCris.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://localhost:5000/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
